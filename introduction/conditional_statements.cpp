@@ -16,6 +16,17 @@ int main()
 
     // Write your code here
     
+    //English words for integers from 1 to 9
+    string integersArr[9] = {"one","two","three","four","five","six","seven","eight","nine"};
+    
+    // if the integer is between 1 and 9
+    if(n>=1 && n<=9){
+        //print the English word corresponding to the integer 
+        cout << integersArr[n-1];
+    }
+    else{
+        cout << "Greater than 9";
+    }
     return 0;
 }
 
