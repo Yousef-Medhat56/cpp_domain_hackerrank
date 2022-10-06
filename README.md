@@ -1,2 +1,3 @@
-# cpp_domain_hackerrank
-Solving C++ domain challenges on HackerRank
+# C++ domain - HackerRank
+Solving [C++ domain challenges](https://www.hackerrank.com/domains/cpp) on HackerRank.
+
