@@ -10,14 +10,18 @@ Each subdomain has a table that demonstrate the challenge name (link to the chal
 |  [Input and Output](https://www.hackerrank.com/challenges/cpp-input-and-output/problem) | $\textcolor{green}{\text{Easy}}$  | [Solved](https://github.com/Yousef-Medhat56/hackerrank_cpp_domain/blob/main/introduction/input_and_output.cpp)  |
 |  [Basic Data Types](https://www.hackerrank.com/challenges/c-tutorial-basic-data-types/problem) |  $\textcolor{green}{\text{Easy}}$ |  [Solved](https://github.com/Yousef-Medhat56/hackerrank_cpp_domain/blob/main/introduction/basic_data_types.cpp) |
 | [Conditional Statements](https://www.hackerrank.com/challenges/c-tutorial-conditional-if-else/problem) | $\textcolor{green}{\text{Easy}}$| [Solved](https://github.com/Yousef-Medhat56/hackerrank_cpp_domain/blob/main/introduction/conditional_statements.cpp)|
-|[For Loop](https://www.hackerrank.com/challenges/c-tutorial-for-loop/problem)|$\textcolor{green}{\text{Easy}}$| - |
-|[Functions](https://www.hackerrank.com/challenges/c-tutorial-functions/problem)|$\textcolor{green}{\text{Easy}}$| - |
+|[For Loop](https://www.hackerrank.com/challenges/c-tutorial-for-loop/problem)|$\textcolor{green}{\text{Easy}}$| [Solved](https://github.com/Yousef-Medhat56/hackerrank_cpp_domain/blob/main/introduction/for_loop.cpp) |
+|[Functions](https://www.hackerrank.com/challenges/c-tutorial-functions/problem)|$\textcolor{green}{\text{Easy}}$| [Solved](https://github.com/Yousef-Medhat56/hackerrank_cpp_domain/blob/main/introduction/functions.cpp) |
 |[Pointer](https://www.hackerrank.com/challenges/c-tutorial-pointer/problem)|$\textcolor{green}{\text{Easy}}$|-|
 |[Arrays Introduction](https://www.hackerrank.com/challenges/arrays-introduction)|$\textcolor{green}{\text{Easy}}$|-|
 |[Variable Sized Arrays](https://www.hackerrank.com/challenges/variable-sized-arrays)|$\textcolor{green}{\text{Easy}}$| - |
 
 ### Strings
-
+|  Challenge | Difficulty  |  Solution |  
+|------------|:-----------:|:-----------:|
+|[Strings](https://www.hackerrank.com/challenges/c-tutorial-strings)|$\textcolor{green}{\text{Easy}}$|[Solved](https://github.com/Yousef-Medhat56/hackerrank_cpp_domain/blob/main/strings/strings.cpp)|
+|[StringStream](https://www.hackerrank.com/challenges/c-tutorial-stringstream)|$\textcolor{green}{\text{Easy}}$| - |
+|[Attribute Parser](https://www.hackerrank.com/challenges/attribute-parser)|$\textcolor{orange}{\text{Medium}}$| - |
 ### Classes
 
 ### STL
