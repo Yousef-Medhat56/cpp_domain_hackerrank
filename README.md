@@ -13,7 +13,7 @@ Each subdomain has a table that demonstrate the challenge name (link to the chal
 |[For Loop](https://www.hackerrank.com/challenges/c-tutorial-for-loop/problem)|$\textcolor{green}{\text{Easy}}$| [Solved](https://github.com/Yousef-Medhat56/hackerrank_cpp_domain/blob/main/introduction/for_loop.cpp) |
 |[Functions](https://www.hackerrank.com/challenges/c-tutorial-functions/problem)|$\textcolor{green}{\text{Easy}}$| [Solved](https://github.com/Yousef-Medhat56/hackerrank_cpp_domain/blob/main/introduction/functions.cpp) |
 |[Pointer](https://www.hackerrank.com/challenges/c-tutorial-pointer/problem)|$\textcolor{green}{\text{Easy}}$|-|
-|[Arrays Introduction](https://www.hackerrank.com/challenges/arrays-introduction)|$\textcolor{green}{\text{Easy}}$|-|
+|[Arrays Introduction](https://www.hackerrank.com/challenges/arrays-introduction)|$\textcolor{green}{\text{Easy}}$|[Solved](https://github.com/Yousef-Medhat56/hackerrank_cpp_domain/blob/main/introduction/arrays_introduction.cpp)|
 |[Variable Sized Arrays](https://www.hackerrank.com/challenges/variable-sized-arrays)|$\textcolor{green}{\text{Easy}}$| - |
 
 ### Strings
