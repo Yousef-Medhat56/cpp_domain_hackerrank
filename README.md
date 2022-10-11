@@ -23,7 +23,16 @@ Each subdomain has a table that demonstrate the challenge name (link to the chal
 |[StringStream](https://www.hackerrank.com/challenges/c-tutorial-stringstream)|$\textcolor{green}{\text{Easy}}$| - |
 |[Attribute Parser](https://www.hackerrank.com/challenges/attribute-parser)|$\textcolor{orange}{\text{Medium}}$| - |
 ### Classes
-
+|  Challenge | Difficulty  |  Solution |  
+|------------|:-----------:|:-----------:|
+|[Structs](https://www.hackerrank.com/challenges/c-tutorial-struct)|$\textcolor{green}{\text{Easy}}$|-|
+|[Class](https://www.hackerrank.com/challenges/classes-objects)|$\textcolor{green}{\text{Easy}}$|-|
+|[Classes and Objects](https://www.hackerrank.com/challenges/classes-objects)|$\textcolor{green}{\text{Easy}}$|-|
+|[Box It!](https://www.hackerrank.com/challenges/box-it)|$\textcolor{green}{\text{Easy}}$|-|
+|[Inherited Code](https://www.hackerrank.com/challenges/inherited-code)|$\textcolor{orange}{\text{Medium}}$|-|
+|[Exceptional Server](https://www.hackerrank.com/challenges/exceptional-server)|$\textcolor{orange}{\text{Medium}}$|-|
+|[Virtual Functions](https://www.hackerrank.com/challenges/virtual-functions)|$\textcolor{orange}{\text{Medium}}$|-|
+|[Abstract Classes - Polymorphism](https://www.hackerrank.com/challenges/abstract-classes-polymorphism)|$\textcolor{red}{\text{Hard}}$|-|
 ### STL
 
 ### Inheritance
