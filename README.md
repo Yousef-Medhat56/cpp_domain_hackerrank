@@ -20,7 +20,7 @@ Each subdomain has a table that demonstrate the challenge name (link to the chal
 |  Challenge | Difficulty  |  Solution |  
 |------------|:-----------:|:-----------:|
 |[Strings](https://www.hackerrank.com/challenges/c-tutorial-strings)|$\textcolor{green}{\text{Easy}}$|[Solved](https://github.com/Yousef-Medhat56/hackerrank_cpp_domain/blob/main/strings/strings.cpp)|
-|[StringStream](https://www.hackerrank.com/challenges/c-tutorial-stringstream)|$\textcolor{green}{\text{Easy}}$| - |
+|[StringStream](https://www.hackerrank.com/challenges/c-tutorial-stringstream)|$\textcolor{green}{\text{Easy}}$| [Solved](https://github.com/Yousef-Medhat56/hackerrank_cpp_domain/blob/main/strings/stringstream.cpp)|
 |[Attribute Parser](https://www.hackerrank.com/challenges/attribute-parser)|$\textcolor{orange}{\text{Medium}}$| - |
 ### Classes
 |  Challenge | Difficulty  |  Solution |  
