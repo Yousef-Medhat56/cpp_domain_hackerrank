@@ -14,14 +14,14 @@ Each subdomain has a table that demonstrate the challenge name (link to the chal
 |[Functions](https://www.hackerrank.com/challenges/c-tutorial-functions/problem)|$\textcolor{green}{\text{Easy}}$| [Solved](https://github.com/Yousef-Medhat56/hackerrank_cpp_domain/blob/main/introduction/functions.cpp) |
 |[Pointer](https://www.hackerrank.com/challenges/c-tutorial-pointer/problem)|$\textcolor{green}{\text{Easy}}$|[Solved](https://github.com/Yousef-Medhat56/hackerrank_cpp_domain/blob/main/introduction/pointer.cpp)|
 |[Arrays Introduction](https://www.hackerrank.com/challenges/arrays-introduction)|$\textcolor{green}{\text{Easy}}$|[Solved](https://github.com/Yousef-Medhat56/hackerrank_cpp_domain/blob/main/introduction/arrays_introduction.cpp)|
-|[Variable Sized Arrays](https://www.hackerrank.com/challenges/variable-sized-arrays)|$\textcolor{green}{\text{Easy}}$| - |
+|[Variable Sized Arrays](https://www.hackerrank.com/challenges/variable-sized-arrays)|$\textcolor{green}{\text{Easy}}$| [Solved](https://github.com/Yousef-Medhat56/hackerrank_cpp_domain/blob/main/introduction/variable_sized_arrays.cpp) |
 
 ### Strings
 |  Challenge | Difficulty  |  Solution |  
 |------------|:-----------:|:-----------:|
 |[Strings](https://www.hackerrank.com/challenges/c-tutorial-strings)|$\textcolor{green}{\text{Easy}}$|[Solved](https://github.com/Yousef-Medhat56/hackerrank_cpp_domain/blob/main/strings/strings.cpp)|
 |[StringStream](https://www.hackerrank.com/challenges/c-tutorial-stringstream)|$\textcolor{green}{\text{Easy}}$| [Solved](https://github.com/Yousef-Medhat56/hackerrank_cpp_domain/blob/main/strings/stringstream.cpp)|
-|[Attribute Parser](https://www.hackerrank.com/challenges/attribute-parser)|$\textcolor{orange}{\text{Medium}}$| - |
+|[Attribute Parser](https://www.hackerrank.com/challenges/attribute-parser)|$\textcolor{orange}{\text{Medium}}$| [Solved](https://github.com/Yousef-Medhat56/hackerrank_cpp_domain/blob/main/strings/attribute_parser.cpp) |
 ### Classes
 |  Challenge | Difficulty  |  Solution |  
 |------------|:-----------:|:-----------:|
