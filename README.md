@@ -33,8 +33,17 @@ Each subdomain has a table that demonstrate the challenge name (link to the chal
 |[Exceptional Server](https://www.hackerrank.com/challenges/exceptional-server)|$\textcolor{orange}{\text{Medium}}$|-|
 |[Virtual Functions](https://www.hackerrank.com/challenges/virtual-functions)|$\textcolor{orange}{\text{Medium}}$|-|
 |[Abstract Classes - Polymorphism](https://www.hackerrank.com/challenges/abstract-classes-polymorphism)|$\textcolor{red}{\text{Hard}}$|-|
-### STL
 
+### STL
+|  Challenge | Difficulty  |  Solution |  
+|------------|:-----------:|:-----------:|
+|[Vector-Sort](https://www.hackerrank.com/challenges/vector-sort)|$\textcolor{green}{\text{Easy}}$|-|
+|[Vector-Erase](https://www.hackerrank.com/challenges/vector-erase)|$\textcolor{green}{\text{Easy}}$|-|
+|[Lower Bound-STL](https://www.hackerrank.com/challenges/cpp-lower-bound)|$\textcolor{green}{\text{Easy}}$|-|
+|[Sets-STL](https://www.hackerrank.com/challenges/cpp-sets)|$\textcolor{green}{\text{Easy}}$|-|
+|[Maps-STL](https://www.hackerrank.com/challenges/cpp-maps)|$\textcolor{green}{\text{Easy}}$|-|
+|[Print Pretty](https://www.hackerrank.com/challenges/prettyprint)|$\textcolor{green}{\text{Easy}}$|-|
+|[Deque-STL](https://www.hackerrank.com/challenges/deque-stl)|$\textcolor{orange}{\text{Medium}}$|-|
 ### Inheritance
 
 ### Debaugging
