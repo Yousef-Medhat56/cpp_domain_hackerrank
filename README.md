@@ -53,5 +53,10 @@ Each subdomain has a table that demonstrate the challenge name (link to the chal
 |[Accessing Inherited Functions](https://www.hackerrank.com/challenges/accessing-inherited-functions)|$\textcolor{orange}{\text{Medium}}$|-|
 |[Magic Spells](https://www.hackerrank.com/challenges/magic-spells)|$\textcolor{red}{\text{Hard}}$|-|
 ### Debaugging
-
+|  Challenge | Difficulty  |  Solution |  
+|------------|:-----------:|:-----------:|
+|[Hotel Prices](https://www.hackerrank.com/challenges/hotel-prices)|$\textcolor{orange}{\text{Medium}}$|-|
+|[Cpp exception handling](https://www.hackerrank.com/challenges/cpp-exception-handling)|$\textcolor{orange}{\text{Medium}}$|-|
+|[Overloading Ostream Operator](https://www.hackerrank.com/challenges/overloading-ostream-operator)|$\textcolor{orange}{\text{Medium}}$|-|
+|[Messages Order](https://www.hackerrank.com/challenges/messages-order)|$\textcolor{orange}{\text{Medium}}$|-|
 ### Other Concepts
