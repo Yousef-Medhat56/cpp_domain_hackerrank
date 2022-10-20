@@ -60,3 +60,13 @@ Each subdomain has a table that demonstrate the challenge name (link to the chal
 |[Overloading Ostream Operator](https://www.hackerrank.com/challenges/overloading-ostream-operator)|$\textcolor{orange}{\text{Medium}}$|-|
 |[Messages Order](https://www.hackerrank.com/challenges/messages-order)|$\textcolor{orange}{\text{Medium}}$|-|
 ### Other Concepts
+|  Challenge | Difficulty  |  Solution |  
+|------------|:-----------:|:-----------:|
+|[C++ Class Templates](https://www.hackerrank.com/challenges/c-class-templates)|$\textcolor{green}{\text{Easy}}$|-|
+|[Preprocessor Solution](https://www.hackerrank.com/challenges/preprocessor-solution)|$\textcolor{green}{\text{Easy}}$|-|
+|[Operator Overloading](https://www.hackerrank.com/challenges/operator-overloading)|$\textcolor{orange}{\text{Medium}}$|-|
+|[Overload Operators](https://www.hackerrank.com/challenges/overload-operators)|$\textcolor{green}{\text{Easy}}$|-|
+|[Attending Workshops](https://www.hackerrank.com/challenges/attending-workshops)|$\textcolor{orange}{\text{Medium}}$|-|
+|[C++ Class Template Specialization](https://www.hackerrank.com/challenges/cpp-class-template-specialization)|$\textcolor{orange}{\text{Medium}}$|-|
+|[C++ Variadics](https://www.hackerrank.com/challenges/cpp-variadics)|$\textcolor{red}{\text{Hard}}$|-|
+|[Bit Array](https://www.hackerrank.com/challenges/bitset-1)|$\textcolor{red}{\text{Hard}}$|-|
