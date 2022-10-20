@@ -25,8 +25,8 @@ Each subdomain has a table that demonstrate the challenge name (link to the chal
 ### Classes
 |  Challenge | Difficulty  |  Solution |  
 |------------|:-----------:|:-----------:|
-|[Structs](https://www.hackerrank.com/challenges/c-tutorial-struct)|$\textcolor{green}{\text{Easy}}$|-|
-|[Class](https://www.hackerrank.com/challenges/classes-objects)|$\textcolor{green}{\text{Easy}}$|-|
+|[Structs](https://www.hackerrank.com/challenges/c-tutorial-struct)|$\textcolor{green}{\text{Easy}}$|[Solved](https://github.com/Yousef-Medhat56/hackerrank_cpp_domain/blob/main/classes/structs.cpp)|
+|[Class](https://www.hackerrank.com/challenges/classes-objects)|$\textcolor{green}{\text{Easy}}$|[Solved](https://github.com/Yousef-Medhat56/hackerrank_cpp_domain/blob/main/classes/class.cpp)|
 |[Classes and Objects](https://www.hackerrank.com/challenges/classes-objects)|$\textcolor{green}{\text{Easy}}$|-|
 |[Box It!](https://www.hackerrank.com/challenges/box-it)|$\textcolor{green}{\text{Easy}}$|-|
 |[Inherited Code](https://www.hackerrank.com/challenges/inherited-code)|$\textcolor{orange}{\text{Medium}}$|-|
@@ -45,7 +45,13 @@ Each subdomain has a table that demonstrate the challenge name (link to the chal
 |[Print Pretty](https://www.hackerrank.com/challenges/prettyprint)|$\textcolor{green}{\text{Easy}}$|-|
 |[Deque-STL](https://www.hackerrank.com/challenges/deque-stl)|$\textcolor{orange}{\text{Medium}}$|-|
 ### Inheritance
-
+|  Challenge | Difficulty  |  Solution |  
+|------------|:-----------:|:-----------:|
+|[Inheritance Introduction](https://www.hackerrank.com/challenges/inheritance-introduction)|$\textcolor{green}{\text{Easy}}$|-|
+|[Rectangle Area](https://www.hackerrank.com/challenges/rectangle-area)|$\textcolor{green}{\text{Easy}}$|-|
+|[Multi Level Inheritance](https://www.hackerrank.com/challenges/multi-level-inheritance-cpp)|$\textcolor{green}{\text{Easy}}$|-|
+|[Accessing Inherited Functions](https://www.hackerrank.com/challenges/accessing-inherited-functions)|$\textcolor{orange}{\text{Medium}}$|-|
+|[Magic Spells](https://www.hackerrank.com/challenges/magic-spells)|$\textcolor{red}{\text{Hard}}$|-|
 ### Debaugging
 
 ### Other Concepts
